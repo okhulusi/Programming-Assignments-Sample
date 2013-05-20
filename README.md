@@ -1,9 +1,8 @@
 # Programming-Assignments-Sample
 ==============================
 
-Author: Omar Khulusi
-
-Email: okhulusi@usc.edu
+#### Author: Omar Khulusi
+#### Email: okhulusi@usc.edu
 
 A repository containing the C++ programming assignments created for my Computer Science 102: Data Structures course.  
 The complexity and difficulty of the assignments increases chronologically.
