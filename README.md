@@ -4,7 +4,7 @@
 #### Author:  Omar Daniel Khulusi
 #### Email: okhulusi@usc.edu
 
-A repository containing the C++ programming assignments created for my Computer Science 102: Data Structures course.  
+A repository containing the C++ programming assignments created for the Computer Science 102: Data Structures course.  
 The complexity and difficulty of the assignments increases chronologically.
 
 ### Brief Description of Assignments
